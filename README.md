@@ -1,19 +1,26 @@
-# qcm_software
+# QCM - Test de Vérification Logiciel
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Bienvenue dans le projet **QCM Test de Vérification Logiciel**, une application Flutter qui propose un questionnaire à choix multiples (QCM) pour tester vos connaissances sur le génie logiciel. Ce projet est conçu pour les étudiants et les professionnels souhaitant tester leurs compétences en génie logiciel.
 
-## Getting Started
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+Cette application Flutter permet à l'utilisateur de passer un QCM sur divers sujets liés au génie logiciel, avec un système de feedback instantané sur chaque question. À la fin du test, un résultat global est affiché.
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+### Fonctionnalités principales :
+- Interface simple et intuitive.
+- Questions sur des sujets du génie logiciel.
+- Feedback immédiat après chaque réponse.
+- Résultats affichés à la fin du test.
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
 
-## Getting Started: FlutLab - Flutter Online IDE
+### Prérequis
+- [Flutter](https://flutter.dev/docs/get-started/install) installé sur votre machine.
+- Un éditeur de texte comme [VSCode](https://code.visualstudio.com/) ou [Android Studio](https://developer.android.com/studio) pour le développement Flutter.
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+### Étapes pour exécuter l'application :
+
+1. **Clonez ce dépôt** sur votre machine locale en utilisant Git :
+
+   ```bash
+   git clone https://github.com/Omar-Rihani/qcm_software.git
